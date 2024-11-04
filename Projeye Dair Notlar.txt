@@ -1,0 +1,34 @@
+1 Hasta
+
+2 Sekreter
+
+3 Doktor 
+
+auto size mod= grow and shring 
+
+group box font ariel kalın 16
+
+text boxlar segua kalın 14
+
+formun acceptbutton özelliği enter tuşuna butonu atar 
+            MessageBox.Show("Kaydınız Gerçekleşmiştir. Şifreniz: " + textüyesifre.Text,"Bilgi",MessageBoxButtons.OK,MessageBoxIcon.Information);
+
+messagebox hakkında bilgiler
+
+update where siz çalışmaz
+
+
+datagrit için auto size columns mode colonlorın data grit vievi kaplayıp kaplamayacağını belirtir 
+
+'"+tc+"'" string ifade dataadapter için uygundur
+ 
+Parametreler kullanmak, güvenliği artırır ve sorguları daha esnek hale getirir. Örneğin:
+
+
+ dataGridView1.ColumnHeadersDefaultCellStyle.Font = new Font("Segoe", 12, FontStyle.Bold);
+ dataGridView1.DefaultCellStyle.Font = new Font("Segoe", 12,FontStyle.Regular);
+decimal(5,2) virgülden sonra iki sayı ve virgülden sonra en yüksek not için 3 sayı olduğu için virgülden önce 5 sayı .
+
+cursor hand üzerine gelince el işareti yapar 
+
+start position center screen
